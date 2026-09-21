@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/alkatide/sitemap.xml
+Sitemap: https://alkatide.vercel.app/sitemap-vercel.xml
+Sitemap: https://alkatide.pages.dev/sitemap-cloudflare.xml
